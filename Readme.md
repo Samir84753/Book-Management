@@ -18,7 +18,7 @@ Steps to run the program:
 
 *`python manage.py createsuperuser` to create admin account
 
-* create .env file inside BookManagement dir and add random value to `key`.
+* create .env file inside BookManagement dir and add random value to `key`. Eg key='$sse8fi=r4x6#v#q7xyvmvmc4b6rm*p='
 * Then run `python manage.py runserver` to run the app.
 
 * After that we should see ``Starting development server at http://127.0.0.1:8000/`` in the terminal
